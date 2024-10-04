@@ -1,0 +1,3 @@
+WiFi Speed test: https://fiber.google.com/speedtest/
+PC Specs: https://www.systemrequirementslab.com/my-computer-details
+GPU Speed Test/UserBenchmark: https://gpu.userbenchmark.com/Software
