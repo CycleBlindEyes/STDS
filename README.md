@@ -1,3 +1,4 @@
-Test Repository
+SpeedtestToDesktopStuff patch 
 
-I decided i should try and make a repository for testing, so i made this txt file with some websites for speed testing and gpu testing and canyourunit type things
+Patch version of STDS, expect bugs. Use at your own discretion.
+
