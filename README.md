@@ -1,3 +1,5 @@
-Test Repository
+Speedtest-DesktopStuff
 
-I decided i should try and make a repository for testing, so i made this txt file with some websites for speed testing and gpu testing and canyourunit type things
+
+This is a tool for scanning uses, and other things.
+
